@@ -10,7 +10,17 @@
   <rights>All rights reserved 2026, FlatRheostat</rights>
   <subtitle>博客</subtitle>
   <title>FlatRheostat's Blogs</title>
-  <updated>2026-11-09T15:50:54.237Z</updated>
+  <updated>2026-11-09T16:46:52.923Z</updated>
+  <entry>
+    <author>
+      <name>FlatRheostat</name>
+    </author>
+    <id>http://example.com/2026/11/10/Hello-World-0/</id>
+    <link href="http://example.com/2026/11/10/Hello-World-0/"/>
+    <published>2026-11-09T16:46:50.000Z</published>
+    <title>Hello World</title>
+    <updated>2026-11-09T16:46:52.923Z</updated>
+  </entry>
   <entry>
     <author>
       <name>FlatRheostat</name>
